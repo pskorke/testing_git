@@ -1,7 +1,0 @@
-this file has been created to learn github
-
-
-I have made changed in this file after comminting
-
-
-I have successfully generated key uisng ssh-keygen and performed push to git
